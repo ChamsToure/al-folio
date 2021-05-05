@@ -6,7 +6,7 @@ img: /assets/img/jazz-chat-demo.gif
 importance: 3
 ---
 
-## [Github Repository](https://github.com/ChamsToure/jazz-chat)
+### [Github Repository](https://github.com/ChamsToure/jazz-chat)
 
     ---
     Tech Stack: Dart/Flutter, Cloud Firestore, Google Auth
